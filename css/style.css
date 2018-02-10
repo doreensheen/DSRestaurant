@@ -1,0 +1,44 @@
+
+/* 
+primary: #00e676
+p-light: #66ffa6
+p-dark: #00b248
+sceondary: #ffa726
+s-light: #ffd95b
+s-dark: #c77800
+*/
+
+body {
+    background-color: #66ffa6;
+    font-family: 'Indie Flower', cursive;
+}
+
+h1,
+h2 {
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 72pt;
+}
+
+li {
+    display: inline-block;
+    font-size: 48pt;
+}
+
+a {
+    font-size: 36pt;
+}
+header li {
+    margin: 10;
+}
+
+header li:first-of-type {
+    margin-left: 0;
+}
+
+footer a {
+    font-size: 64pt;
+}
